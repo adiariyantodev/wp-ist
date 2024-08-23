@@ -1,0 +1,1095 @@
+{
+    "manifest_version": "1.0.19",
+    "title": "Acco \u2013 Blockchain, Cryptocurrency & Bitcoin Elementor Template Kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.1",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Home",
+            "screenshot": "screenshots\/home.jpg",
+            "source": "templates\/home.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/acco\/template-kit\/home\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About Us",
+            "screenshot": "screenshots\/about-us.jpg",
+            "source": "templates\/about-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/acco\/template-kit\/about-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Blog",
+            "screenshot": "screenshots\/single-blog.jpg",
+            "source": "templates\/single-blog.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/acco\/template-kit\/single-blog\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-post",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "News",
+            "screenshot": "screenshots\/news.jpg",
+            "source": "templates\/news.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/acco\/template-kit\/news\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Service",
+            "screenshot": "screenshots\/service.jpg",
+            "source": "templates\/service.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/acco\/template-kit\/service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Career",
+            "screenshot": "screenshots\/career.jpg",
+            "source": "templates\/career.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/acco\/template-kit\/career\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Token Sale",
+            "screenshot": "screenshots\/token-sale.jpg",
+            "source": "templates\/token-sale.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/acco\/template-kit\/token-sale\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/acco\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Team",
+            "screenshot": "screenshots\/team.jpg",
+            "source": "templates\/team.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/acco\/template-kit\/team\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Metform Contact Us",
+            "screenshot": "screenshots\/metform-contact-us.jpg",
+            "source": "templates\/metform-contact-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/acco\/template-kit\/metform-contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Us",
+            "screenshot": "screenshots\/contact-us.jpg",
+            "source": "templates\/contact-us.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/acco\/template-kit\/contact-us\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/acco\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/acco\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "404 Page",
+            "screenshot": "screenshots\/404-page.jpg",
+            "source": "templates\/404-page.json",
+            "preview_url": "https:\/\/templatekit.jegtheme.com\/acco\/template-kit\/404-page\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-404",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.2.2",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Jeg Elementor Kit",
+            "version": "1.8.2",
+            "file": "jeg-elementor-kit\/jeg-elementor-kit.php",
+            "author": "JegStudio"
+        },
+        {
+            "name": "MetForm",
+            "version": "1.4.7",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "Elementor",
+            "version": "3.2.2",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        }
+    ],
+    "images": [
+        {
+            "filename": "08-scaled-e1614740007997.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/02\/08-scaled-e1614740007997.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                },
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                },
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                },
+                {
+                    "source": "templates\/404-page.json",
+                    "name": "404 Page"
+                }
+            ],
+            "filesize": 140488,
+            "dimensions": [
+                2560,
+                1707
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vivid-gradients-backgrounds-QK56CTP"
+        },
+        {
+            "filename": "Raw-Illustraton-1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/02\/Raw-Illustraton-1.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 247521,
+            "dimensions": [
+                1440,
+                1027
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/financial-analysis-website-header-illustration-MF62V25"
+        },
+        {
+            "filename": "logo-blue-white.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/02\/logo-blue-white.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 55278,
+            "dimensions": [
+                1349,
+                390
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/"
+        },
+        {
+            "filename": "logo-partner-2.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/logo-partner-2.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 31629,
+            "dimensions": [
+                2380,
+                703
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/market-up-logo-template-NVGSCF"
+        },
+        {
+            "filename": "logo-partner-3.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/logo-partner-3.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 35816,
+            "dimensions": [
+                2448,
+                704
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/smart-net-s-n-letter-logo-template-2BD9KK"
+        },
+        {
+            "filename": "logo-partner-4.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/logo-partner-4.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 14329,
+            "dimensions": [
+                925,
+                269
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/wallet-app-donation-care-fund-logo-template-HFLQJX5"
+        },
+        {
+            "filename": "logo-partner-5.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/logo-partner-5.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 39815,
+            "dimensions": [
+                2175,
+                643
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/coin-market-c-letter-logo-template-GL4J73"
+        },
+        {
+            "filename": "bitcoin-encryption.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/02\/bitcoin-encryption.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 75247,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/105-cryptocurrency-icons-N7E56M"
+        },
+        {
+            "filename": "bitcoin-wallet-a.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/02\/bitcoin-wallet-a.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 31035,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/105-cryptocurrency-icons-N7E56M"
+        },
+        {
+            "filename": "cryptocurrencies-going-up.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/02\/cryptocurrencies-going-up.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 40541,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/105-cryptocurrency-icons-N7E56M"
+        },
+        {
+            "filename": "withdraw-a.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/02\/withdraw-a.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                }
+            ],
+            "filesize": 40978,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/105-cryptocurrency-icons-N7E56M"
+        },
+        {
+            "filename": "illustration-2-e1614311211637.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/02\/illustration-2-e1614311211637-800x676.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 175161,
+            "dimensions": [
+                1440,
+                1217
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/priority-scale-website-header-illustraton-2DTU4QW"
+        },
+        {
+            "filename": "illustration-hero-new.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/02\/illustration-hero-new-800x599.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                },
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                }
+            ],
+            "filesize": 89077,
+            "dimensions": [
+                1440,
+                1078
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/money-management-website-header-illsutration-3EWVDUD"
+        },
+        {
+            "filename": "dotted-map.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/dotted-map.png",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 183631,
+            "dimensions": [
+                1920,
+                1080
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/vector-dotted-world-map-4MLXK3M"
+        },
+        {
+            "filename": "user-5-2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/user-5-2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 292764,
+            "dimensions": [
+                497,
+                497
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-3PQNVSH"
+        },
+        {
+            "filename": "user-2-2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/user-2-2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 235395,
+            "dimensions": [
+                497,
+                497
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-EWC24GN"
+        },
+        {
+            "filename": "user-6-2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/user-6-2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 326998,
+            "dimensions": [
+                497,
+                497
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QZ54ZTH"
+        },
+        {
+            "filename": "user-4-2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/user-4-2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 227228,
+            "dimensions": [
+                497,
+                497
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-GMS7E8Z"
+        },
+        {
+            "filename": "user-3-2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/user-3-2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 214773,
+            "dimensions": [
+                497,
+                497
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-PCXJHSB"
+        },
+        {
+            "filename": "user-1-2x.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/user-1-2x.jpg",
+            "templates": [
+                {
+                    "source": "templates\/home.json",
+                    "name": "Home"
+                }
+            ],
+            "filesize": 186610,
+            "dimensions": [
+                497,
+                497
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E4Z6KX9"
+        },
+        {
+            "filename": "overlay-2-2x.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/overlay-2-2x.png",
+            "templates": [
+                {
+                    "source": "templates\/about-us.json",
+                    "name": "About Us"
+                },
+                {
+                    "source": "templates\/team.json",
+                    "name": "Team"
+                }
+            ],
+            "filesize": 12989,
+            "dimensions": [
+                418,
+                528
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/templatekit.jegtheme.com\/acco\/"
+        },
+        {
+            "filename": "bitcoin-coins-on-black-background-e1614751767459.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/bitcoin-coins-on-black-background-e1614751767459.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 507924,
+            "dimensions": [
+                1295,
+                863
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P6W2KBT"
+        },
+        {
+            "filename": "stock-market-trading-on-a-tablet-computer.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/stock-market-trading-on-a-tablet-computer.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-blog.json",
+                    "name": "Single Blog"
+                }
+            ],
+            "filesize": 194231,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-S3MMW5V"
+        },
+        {
+            "filename": "close-up-of-male-hand-holding-bitcoin.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/close-up-of-male-hand-holding-bitcoin.jpg",
+            "templates": [
+                {
+                    "source": "templates\/news.json",
+                    "name": "News"
+                }
+            ],
+            "filesize": 306062,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-P2HXGWU"
+        },
+        {
+            "filename": "smart-contracts1.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/smart-contracts1.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                }
+            ],
+            "filesize": 33190,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/105-cryptocurrency-icons-N7E56M"
+        },
+        {
+            "filename": "cypherpunk.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/cypherpunk.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                }
+            ],
+            "filesize": 53479,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/105-cryptocurrency-icons-N7E56M"
+        },
+        {
+            "filename": "buy-cryptocurrencies.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/buy-cryptocurrencies.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                }
+            ],
+            "filesize": 67884,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/105-cryptocurrency-icons-N7E56M"
+        },
+        {
+            "filename": "fiat-money.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/fiat-money.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                }
+            ],
+            "filesize": 46204,
+            "dimensions": [
+                800,
+                800
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/finance-crypto-mobile-app-ui-kit-template-PZ27XPK"
+        },
+        {
+            "filename": "iPhone-12-Clay-Mockup-e1614574256466.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/iPhone-12-Clay-Mockup-e1614574256466.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/token-sale.json",
+                    "name": "Token Sale"
+                }
+            ],
+            "filesize": 463753,
+            "dimensions": [
+                1111,
+                1814
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/iphone-12-clay-mockup-3-0-P35SUVW"
+        },
+        {
+            "filename": "FAQ-Illustration-1-e1614751045683.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/FAQ-Illustration-1-e1614751045683-800x855.png",
+            "templates": [
+                {
+                    "source": "templates\/service.json",
+                    "name": "Service"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                }
+            ],
+            "filesize": 210417,
+            "dimensions": [
+                1440,
+                1539
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/financial-advisor-website-header-illustration-Z8HNQ3P"
+        },
+        {
+            "filename": "start-up-of-designers-e1614650213788.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/start-up-of-designers-e1614650213788.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 302057,
+            "dimensions": [
+                2000,
+                1040
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-6S2UMYJ"
+        },
+        {
+            "filename": "startup-teamwork-brainstorming-meeting-concept-in-office.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/startup-teamwork-brainstorming-meeting-concept-in-office.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 490857,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-E7BA43S"
+        },
+        {
+            "filename": "laptops-and-coffee-in-paper-cups-on-table-in-start-up-office.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/laptops-and-coffee-in-paper-cups-on-table-in-start-up-office.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 192249,
+            "dimensions": [
+                2000,
+                1335
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/image-8LBGXMX"
+        },
+        {
+            "filename": "office-routine.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/office-routine.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 380002,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-QKBJ3U8"
+        },
+        {
+            "filename": "looking-for-direction-and-inspiration-business-working-at-an-office-office-desk-table-with.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/looking-for-direction-and-inspiration-business-working-at-an-office-office-desk-table-with.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 499556,
+            "dimensions": [
+                2000,
+                1331
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-KSL75N9"
+        },
+        {
+            "filename": "business-team-of-software-developers-having-fun-in-office.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/business-team-of-software-developers-having-fun-in-office.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 524991,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-TH6NFQ5"
+        },
+        {
+            "filename": "young-contemporary-creative-developers-of-mobile-applications-brainstorming.jpg",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/young-contemporary-creative-developers-of-mobile-applications-brainstorming.jpg",
+            "templates": [
+                {
+                    "source": "templates\/career.json",
+                    "name": "Career"
+                }
+            ],
+            "filesize": 362793,
+            "dimensions": [
+                2000,
+                1333
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/image-DFFUEJ7"
+        },
+        {
+            "filename": "Contact-Us-Illustration-e1614750654980.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/03\/Contact-Us-Illustration-e1614750654980-800x503.png",
+            "templates": [
+                {
+                    "source": "templates\/contact-us.json",
+                    "name": "Contact Us"
+                }
+            ],
+            "filesize": 314093,
+            "dimensions": [
+                1290,
+                811
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/increasing-income-website-header-illustration-CWGLCEP"
+        },
+        {
+            "filename": "logo-acco.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/02\/logo-acco.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 41159,
+            "dimensions": [
+                2054,
+                868
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/a-logo-MKJBMT"
+        },
+        {
+            "filename": "white-acco-logo.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/02\/white-acco-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 39614,
+            "dimensions": [
+                2018,
+                705
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/a-logo-MKJBMT"
+        },
+        {
+            "filename": "white-logo.png",
+            "thumbnail_url": "https:\/\/templatekit.jegtheme.com\/acco\/wp-content\/uploads\/sites\/50\/2021\/02\/white-logo.png",
+            "templates": [
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 19743,
+            "dimensions": [
+                738,
+                705
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/a-logo-MKJBMT"
+        }
+    ]
+}
